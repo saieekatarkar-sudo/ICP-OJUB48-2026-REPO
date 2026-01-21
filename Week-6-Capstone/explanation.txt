@@ -1,0 +1,12 @@
+This capstone project demonstrates a simplified
+blockchain model for learning purposes.
+
+Each block contains:
+- Index
+- Timestamp
+- Transactions
+- Previous block hash
+- Current block hash
+
+Blocks are linked together using cryptographic hashing,
+which ensures data integrity and immutability.
