@@ -1,0 +1,6 @@
+This program simulates a basic transaction system.
+
+Transactions are stored using a list of dictionaries.
+Each transaction contains sender, receiver, and amount.
+
+The data is displayed in a structured format using loops.
